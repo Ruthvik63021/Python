@@ -1,0 +1,3 @@
+a="#@H$%YD3**RA456B&%^^AD"
+b="".join(i for i in a if i.isalnum())
+print(b)
