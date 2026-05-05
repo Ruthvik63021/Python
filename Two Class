@@ -32,4 +32,4 @@ b2.set_dim(90,10,40,"ABHI")
 a.display()
 a2.display()
 b.show()
-b2.show()z
+b2.show()
