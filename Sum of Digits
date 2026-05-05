@@ -5,3 +5,7 @@ while(a!=0):
     sum=sum+rem
     a=a//10
 print("Sum:", sum)
+
+a=20264345
+b=[int (i) for i in str(a)]
+print(sum((b)))
